@@ -1,0 +1,13 @@
+{
+  "wood_block":   { "name": "Wood block",   "kind": "block", "size": [1, 1, 1], "shape": "box",    "color": "#b07a45" },
+  "stone_block":  { "name": "Stone block",  "kind": "block", "size": [1, 1, 1], "shape": "box",    "color": "#8d9199" },
+  "brick_block":  { "name": "Brick block",  "kind": "block", "size": [1, 1, 1], "shape": "box",    "color": "#b5523b" },
+  "glass_block":  { "name": "Glass block",  "kind": "block", "size": [1, 1, 1], "shape": "box",    "color": "#8fd3f4" },
+  "grass_block":  { "name": "Grass block",  "kind": "block", "size": [1, 1, 1], "shape": "box",    "color": "#5fae4e" },
+  "sand_block":   { "name": "Sand block",   "kind": "block", "size": [1, 1, 1], "shape": "box",    "color": "#e3d29b" },
+  "water_block":  { "name": "Water block",  "kind": "block", "size": [1, 1, 1], "shape": "box",    "color": "#3b82c4" },
+  "roof_block":   { "name": "Roof block",   "kind": "block", "size": [1, 1, 1], "shape": "box",    "color": "#7a3b3b" },
+  "stone_stairs": { "name": "Stone stairs", "kind": "prop",  "size": [1, 1, 1], "shape": "stairs", "color": "#a3a7b0" },
+  "lamp_post":    { "name": "Lamp post",    "kind": "prop",  "size": [1, 2, 1], "shape": "lamp",   "color": "#f2c94c" },
+  "bench":        { "name": "Bench",        "kind": "prop",  "size": [2, 1, 1], "shape": "bench",  "color": "#9b6b43" }
+}
